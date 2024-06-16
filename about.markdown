@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hello! My name is Tim de Bruijn, and I am a passionate IT professional specializing in system administration. With a strong background in Linux, network security, and IT infrastructure, I have honed my skills to ensure robust and secure systems for my clients and employers.
+Hello! My name is Tim de Bruijn, and I am a passionate IT professional specializing in system administration. With a strong background in Linux, network security, and IT infrastructure, I have honed my skills to ensure robust and secure systems for my clients and colleagues.
 
 ### Professional Journey
 
